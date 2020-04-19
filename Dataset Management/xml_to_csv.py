@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------------------------------
 # Author: John Kufuor
-# Adapted from: https://github.com/datitran/raccoon_dataset
+# Adapted from: (Tran, 2017)
 # Project: Detecting sockets and radiators in 360◦ images of indoor spaces using deep learning
 # ----------------------------------------------------------------------------------------------
 import os
